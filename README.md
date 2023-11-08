@@ -1,3 +1,4 @@
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
   <h1 align="center">
     Hello, I'm TEMPEST / Priyanshu
   </h1>
