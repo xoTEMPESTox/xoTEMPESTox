@@ -1,5 +1,5 @@
   <h1 align="center">
-    Hello, I'm Priyanshu 
+    Hello, I'm TEMPEST / Priyanshu
   </h1>
   <h2 align="center">
     Welcome to my GitHub profile!
