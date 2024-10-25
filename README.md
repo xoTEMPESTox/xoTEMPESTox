@@ -7,11 +7,13 @@
   </h2>
   
   <h2>
-    About me
+    About me || <a href="https://priyanshu123sah.hackerresume.io/a39dcdba-5339-4315-a6a4-2640dca226f7" target="_blank">Resume</a>
   </h2>
   
 Hey There <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/4808de23623b6a14a1035959a556e52ab427aef3/Resources/img/waving.gif" alt="Hello" width="auto" height="16px">
- , nice of you for wanting to know more about me 😊 . I am a Newbie coder who is still learning his way around different languages , I have had an interest in computers ever since my family got a laptop in 2010 , I have had joy ride with almost all devices that I own tinkering with it and learning from it . I am currently a <b>Under Grad</b> in <b> Artificial Inteligence & Machine Learning </b> at <b>TCET INDIA</b> I have a good grasp of Java , Python , C and Introducing more languages such as C++ , HTML , CSS , JS , LUA in my arsenal to create projects that I always wanted to . I also love to Day Trade & Play games 
+I'm glad you're interested in learning more about me! 😊 I'm currently an Undergraduate in Artificial Intelligence & Machine Learning at TCET India. My coding journey began in 2010 when my family got our first laptop, and since then, I've been passionate about tinkering with devices and exploring different programming languages.
+
+I have a solid foundation in Java, Python, and C, and I'm expanding my skill set to include C++, HTML, CSS, JavaScript, and Lua as I work on various projects. In addition to coding, I enjoy day trading and gaming.
 
 <i><b> JOIN ME AND WATCH MY PROGRESS AS I GROW INTO AN ABSOLUTELY DOMINANT CODER </b></i> 😉
 
