@@ -10,14 +10,60 @@
     About me || <a href="https://priyanshu123sah.hackerresume.io/a39dcdba-5339-4315-a6a4-2640dca226f7" target="_blank">Resume</a>
   </h2>
   
-Hey There <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/4808de23623b6a14a1035959a556e52ab427aef3/Resources/img/waving.gif" alt="Hello" width="auto" height="16px">
-I'm glad you're interested in learning more about me! 😊 I'm currently an Undergraduate in Artificial Intelligence & Machine Learning at TCET India. My coding journey began in 2010 when my family got our first laptop, and since then, I've been passionate about tinkering with devices and exploring different programming languages.
+# Hey There! <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/4808de23623b6a14a1035959a556e52ab427aef3/Resources/img/waving.gif" alt="Hello" width="auto" height="16px">
 
-I have a solid foundation in Java, Python, and C, and I'm expanding my skill set to include C++, HTML, CSS, JavaScript, and Lua as I work on various projects. In addition to coding, I enjoy day trading and gaming.
+I'm **Priyanshu Sah**, and I'm glad you're interested in learning more about me! 😊 I'm currently an **Undergraduate in Artificial Intelligence & Machine Learning** at **TCET India**. My coding journey began in 2010 when my family got our first laptop, and since then, I've been passionate about tinkering with devices and exploring different programming languages.
 
-<i><b> JOIN ME AND WATCH MY PROGRESS AS I GROW INTO AN ABSOLUTELY DOMINANT CODER </b></i> 😉
+---
 
-<i><b>Currently Learning DSA in JAVA</b></i>
+## 🔧 **Tech Stack & Skills**
+
+### **Programming Languages:**
+- **Proficient:** Python, Java, C
+- **Learning:** C++, HTML, CSS, JavaScript, Lua
+
+### **Machine Learning & AI:**
+- Expertise in **GenAI, NLP, Multimodal AI**
+- Projects include:
+  - **RAG Chatbots**: Retrieval-augmented generation systems.
+  - **Multimodal AI Agents**: Combining text, images, and data streams.
+  - **Multi-Lingual Systems**: Expanding accessibility through NLP.
+  - **Enerzal**: A Organizational Chatbot Solution.
+
+### **Full Stack Development:**
+- Hands-on experience with **MERN Stack**, React, Tailwind CSS, and traditional HTML/CSS/JavaScript.
+
+### **Blockchain Enthusiast:**
+- **Supplyzal:** Supply chain management platform on Polygon
+- **EcoChain:** Carbon credit trading system on Ethereum
+
+### **Mobile Development:**
+- Developed simple Android apps to port websites to **Android & iOS** platforms.
+
+---
+
+## 🎮 **Beyond Coding**
+
+- I enjoy **day trading** and analyzing financial markets.
+- Avid gamer and technology enthusiast.
+
+---
+
+## 🛠 **Currently Learning**
+- **Working on Serbian Chatbot**
+- **Eco Chain - Decentralized Carbon Credit System**
+
+---
+
+<i><b>JOIN ME AND WATCH MY PROGRESS AS I GROW INTO AN ABSOLUTELY DOMINANT CODER</b></i> 😉
+
+---
+
+## 📫 **Connect with Me**
+
+- **LinkedIn:** [Priyanshu Sah](https://www.linkedin.com/in/priyanshu123sah/)
+- **Hackerrank:** [Priyanshu Sah]([https://www.linkedin.com/in/priyanshu123sah/](https://www.hackerrank.com/profile/priyanshu123sah))
+
 
 ![GitHub followers](https://img.shields.io/github/followers/xoTEMPESTox?label=Follow&style=social)
 
