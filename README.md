@@ -74,7 +74,7 @@ Need more customization with social link + Buttons for language I use
 
 
 ### Stats
-<a href="https://github.com/gamer301">
+<a href="https://github.com/xoTEMPESTox">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xoTEMPESTox&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xoTEMPESTox&layout=compact&langs_count=8&theme=radical"/>
 </a>
