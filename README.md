@@ -6,9 +6,12 @@
     Welcome to my GitHub profile!
   </h2>
   
-  <h2>
-    About me || <a href="https://priyanshu123sah.hackerresume.io/a39dcdba-5339-4315-a6a4-2640dca226f7" target="_blank">Resume</a>
-  </h2>
+<h2>
+  About me || 
+  <!-- <a href="https://priyanshu123sah.hackerresume.io/a39dcdba-5339-4315-a6a4-2640dca226f7" target="_blank">Resume</a> -->
+  <a href="Resources/22_AI&ML_43_26_Priyanshu_SAH.pdf" target="_blank">Resume</a>
+</h2>
+
   
 # Hey There! <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/4808de23623b6a14a1035959a556e52ab427aef3/Resources/img/waving.gif" alt="Hello" width="auto" height="16px">
 
