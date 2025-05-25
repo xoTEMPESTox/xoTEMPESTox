@@ -65,7 +65,7 @@ I'm **Priyanshu Sah**, and I'm glad you're interested in learning more about me!
 ## 📫 **Connect with Me**
 
 - **LinkedIn:** [Priyanshu Sah](https://www.linkedin.com/in/priyanshu123sah/)
-- **Hackerrank:** [Priyanshu Sah]([https://www.linkedin.com/in/priyanshu123sah/](https://www.hackerrank.com/profile/priyanshu123sah))
+- **Hackerrank:** [Priyanshu Sah](https://www.hackerrank.com/profile/priyanshu123sah)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/xoTEMPESTox?label=Follow&style=social)
