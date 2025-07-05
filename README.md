@@ -13,7 +13,14 @@
 </h2>
 
   
-# Hey There! <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/4808de23623b6a14a1035959a556e52ab427aef3/Resources/img/waving.gif" alt="Hello" width="auto" height="16px">
+<h1>
+  Hey There! 
+  <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/4808de23623b6a14a1035959a556e52ab427aef3/Resources/img/waving.gif" 
+       alt="Hello" 
+       style="height: 1em; vertical-align: middle;">
+</h1>
+
+
 
 I'm **Priyanshu Sah**, and I'm glad you're interested in learning more about me! 😊 I'm currently an **Undergraduate in Artificial Intelligence & Machine Learning** at **TCET India**. My coding journey began in 2010 when my family got our first laptop, and since then, I've been passionate about tinkering with devices and exploring different programming languages.
 
