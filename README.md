@@ -9,7 +9,7 @@
 <h2>
   About me || 
   <!-- <a href="https://priyanshu123sah.hackerresume.io/a39dcdba-5339-4315-a6a4-2640dca226f7" target="_blank">Resume</a> -->
-  <a href="Resources/Priyanshu_Sah.pdf" target="_blank">Resume</a>
+  <a href="https://bit.ly/Priyanshu_Sah-Resume-Foreign" target="_blank">Resume</a>
 </h2>
 
   
