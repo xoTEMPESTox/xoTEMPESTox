@@ -61,13 +61,33 @@ My journey blends a strong technical foundation with a passion for **building, o
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Socials + Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu123sah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/_TEMPEST_"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codemirror&logoColor=white"/></a>
-  <a href="https://github.com/xoTEMPESTox"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:priyanshu123sah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/priyanshu123sah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:priyanshu123sah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <!-- Competitive Coding Profile -->
+  <a href="https://codolio.com/profile/_TEMPEST_" target="_blank">
+    <img src="https://img.shields.io/badge/Coding_Profile_(Codolio)-1F425F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Competitive Coding Profile"/>
+  </a>
+
+  <!-- Portfolio (Placeholder, update when live) -->
+  <a href="https://your-portfolio-link-here.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <!-- Resume (Foreign) -->
+  <a href="https://bit.ly/Priyanshu_Sah-Resume-Foreign" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 ---
