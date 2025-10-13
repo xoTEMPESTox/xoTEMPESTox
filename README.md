@@ -1,13 +1,13 @@
 <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/main/Resources/img/grid-snake.svg" width="100%"/>
 
-<h1 align="center">👋 Hey, I'm Priyanshu Sah (TEMPEST)</h1>
+<!-- <h1 align="center"><b>Priyanshu Sah</b> | <i>TEMPEST</i></h1> -->
 
-<h3 align="center">Full-Stack AI Engineer | DevOps | MLOps | Blockchain Enthusiast</h3>
+<h1 align="center">Full-Stack AI Engineer · DevOps · MLOps · Blockchain Enthusiast</h3>
 
-<p align="center">
-🎓 B.Tech (Honors) in Artificial Intelligence & Machine Learning – University of Mumbai  
-💼 Actively seeking **Full-Time Roles / Internships** in **AI Engineering, ML Ops, or Full-Stack AI Development**  
-🌍 Based in Mumbai, India  
+<p align="justify">
+🎓 <b>B.Tech (Honors)</b> in Artificial Intelligence & Machine Learning — University of Mumbai <br>  
+💼 <b>Seeking Full-Time Roles</b> in AI Engineering · ML Ops · Full-Stack Development <br>  
+🌍 Mumbai, India
 </p>
 
 ---
