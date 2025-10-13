@@ -52,11 +52,15 @@ My journey blends a strong technical foundation with a passion for **building, o
 
 ---
 
+<!-- <a href="https://github.com/xoTEMPESTox-Archive/TechEnerzal_oneAPI_hack_kpr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xoTEMPESTox&repo=TechEnerzal_oneAPI_hack_kpr&bg_color=00000000&theme=algolia" />
+</a> -->
+
 ## 📈 Professional Stats
 
 <a href="https://github.com/xoTEMPESTox">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xoTEMPESTox&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xoTEMPESTox&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api?username=xoTEMPESTox&show_icons=true&bg_color=00000000&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xoTEMPESTox&layout=compact&langs_count=8&bg_color=00000000&theme=algolia"/>
 </a>
 
 ---
@@ -76,7 +80,7 @@ My journey blends a strong technical foundation with a passion for **building, o
 
   <!-- Competitive Coding Profile -->
   <a href="https://codolio.com/profile/_TEMPEST_" target="_blank">
-    <img src="https://img.shields.io/badge/Coding_Profile_(Codolio)-1F425F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Competitive Coding Profile"/>
+    <img src="https://img.shields.io/badge/CP-1F425F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Competitive Coding Profile"/>
   </a>
 
   <!-- Portfolio (Placeholder, update when live) -->
