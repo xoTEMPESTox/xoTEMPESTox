@@ -52,9 +52,12 @@ My journey blends a strong technical foundation with a passion for **building, o
 
 ---
 
-<!-- <a href="https://github.com/xoTEMPESTox-Archive/TechEnerzal_oneAPI_hack_kpr">
+<a href="https://github.com/xoTEMPESTox/TechEnerzal_oneAPI_hack_kpr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xoTEMPESTox&repo=TechEnerzal_oneAPI_hack_kpr&bg_color=00000000&theme=algolia" />
-</a> -->
+</a>
+<a href="https://github.com/xoTEMPESTox/EcoChain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xoTEMPESTox&repo=EcoChain&bg_color=00000000&theme=algolia" />
+</a>
 
 ## 📈 Professional Stats
 
