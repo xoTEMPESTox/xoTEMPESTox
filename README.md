@@ -5,7 +5,7 @@
 <h1 align="center">Full-Stack AI Engineer · DevOps · MLOps · Blockchain Enthusiast</h3>
 
 <p align="justify">
-🎓 <b>B.Tech (Honors)</b> in Artificial Intelligence & Machine Learning — University of Mumbai <br>  
+🎓 <b>B.Tech (Honors)</b> in Artificial Intelligence & Machine Learning | University of Mumbai <br>  
 💼 <b>Seeking Full-Time Roles</b> in AI Engineering · ML Ops · Full-Stack Development <br>  
 🌍 Mumbai, India
 </p>
