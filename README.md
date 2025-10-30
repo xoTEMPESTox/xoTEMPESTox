@@ -91,8 +91,8 @@ My journey blends a strong technical foundation with a passion for **building, o
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 
-  <!-- Resume (Foreign) -->
-  <a href="https://bit.ly/Priyanshu_Sah-Resume-Foreign" target="_blank">
+  <!-- Resume (Foreign) - https://bit.ly/Priyanshu_Sah-Resume-Foreign -->
+  <a href="https://drive.google.com/file/d/1xDaBzWh3j2qQt14hQwANJYp-GX88xisc/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
