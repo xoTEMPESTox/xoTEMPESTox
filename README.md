@@ -87,7 +87,7 @@ My journey blends a strong technical foundation with a passion for **building, o
   </a>
 
   <!-- Portfolio (Placeholder, update when live) -->
-  <a href="https://xotempestox.github.io/" target="_blank">
+  <a href="https://priyanshusah.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 
