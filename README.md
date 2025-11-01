@@ -72,27 +72,27 @@ My journey blends a strong technical foundation with a passion for **building, o
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/priyanshu123sah/" target="_blank">
+  <a href="https://priyanshusah.com/linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- Email -->
-  <a href="mailto:priyanshu123sah@gmail.com" target="_blank">
+  <a href="https://priyanshusah.com/mail" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <!-- Competitive Coding Profile -->
-  <a href="https://codolio.com/profile/_TEMPEST_" target="_blank">
+  <a href="https://priyanshusah.com/codolio" target="_blank">
     <img src="https://img.shields.io/badge/CP-1F425F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Competitive Coding Profile"/>
   </a>
 
-  <!-- Portfolio (Placeholder, update when live) -->
+  <!-- Portfolio  -->
   <a href="https://priyanshusah.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 
   <!-- Resume (Foreign) - https://bit.ly/Priyanshu_Sah-Resume-Foreign -->
-  <a href="https://drive.google.com/file/d/1xDaBzWh3j2qQt14hQwANJYp-GX88xisc/view?usp=drive_link" target="_blank">
+  <a href="https://priyanshusah.com/resume-global" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
