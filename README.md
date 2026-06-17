@@ -46,7 +46,7 @@ My interests include LLM applications, agentic systems, model serving, inference
 - Model deployment pipelines and GPU optimization for low-latency inference
 
 ### 🌟 Open Source
-- TradingViewPlus — Maintainer and contributor for a browser extension used by hundreds of traders
+- TradingViewPlus Maintainer and contributor for a browser extension used by hundreds of traders
 - Multiple major feature releases, platform compatibility improvements, and community-driven enhancements
 
 ---
