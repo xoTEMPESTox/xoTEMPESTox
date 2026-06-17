@@ -1,32 +1,41 @@
-<img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/main/public/assets/images/animations/grid-snake.svg" width="100%"/>
-
 <!-- <h1 align="center"><b>Priyanshu Sah</b> | <i>TEMPEST</i></h1> -->
 
-<h1 align="center">Full-Stack AI Engineer · DevOps · MLOps · Blockchain Enthusiast</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:1a0533,100:0d0d14&height=220&section=header&text=PRIYANSHU%20SAH&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=100000&color=A78BFA&center=true&vCenter=true&width=750&height=32&lines=AI+Engineer+%7C+Full-Stack+Engineer+%7C+Open+Source+Maintainer" alt="typing svg"/>
+</div>
 
 <p align="justify">
-🎓 <b>B.Tech (Honors)</b> in Artificial Intelligence & Machine Learning | University of Mumbai <br>  
-💼 <b>Seeking Full-Time Roles</b> in AI Engineering · ML Ops · Full-Stack Development <br>  
-🌍 Mumbai, India
+
+---
+
+💼 <b>AI Engineer</b> building healthcare AI systems, agentic workflows, and production LLM applications <br>
+⚙️ Experience across model serving, RAG, evaluation, deployment, and AI infrastructure <br>
+🚀 <b>Open to Full-Time, Contract, and Freelance Opportunities</b> <br>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m **Priyanshu Sah**, a results-driven engineer passionate about building intelligent systems that combine **AI, scalable APIs, and DevOps** to solve real-world problems.  
-Currently working as a **Full-Stack AI Engineer at Liferythm Healthcare**, where I build AI-driven medical workflow automation tools using **MedLLMs**, **LangChain**, and **RAG pipelines**.
+I’m **Priyanshu Sah**, an AI Engineer focused on turning AI research and models into products people can actually use.
 
-My journey blends a strong technical foundation with a passion for **building, optimizing, and deploying** intelligent products at scale.
+Currently at **Liferythm Healthcare**, I work on AI-powered healthcare systems including clinical documentation, patient triage, AI receptionists, and follow-up automation. My work spans the full lifecycle from data preparation and evaluation to backend services, model integration, deployment, and production monitoring.
+
+My interests include LLM applications, agentic systems, model serving, inference optimization, and building reliable software around AI models.
 
 ---
 
 ## 🧠 Core Expertise
 
-### 🧩 **AI Engineering**
-- Retrieval-Augmented Generation (RAG) | Agentic Workflows | Multimodal Systems  
-- Fine-tuning + inference optimization for domain-specific LLMs  
-- Frameworks: **LangChain**, **LlamaIndex**, **Transformers**, **MCP**
+### 🧩 AI Engineering
+- RAG | Agentic Workflows | LangGraph | MCP
+- Fine-Tuning | Evaluation Pipelines | Inference Optimization
+- Multimodal Systems | VLMs | Domain-Specific LLM Applications
+- LangChain | LlamaIndex | Transformers | Hugging Face
 
 ### 🖥️ **Full-Stack & API Development**
 - **React + MERN Stack**, REST / WebSocket APIs  
@@ -36,9 +45,9 @@ My journey blends a strong technical foundation with a passion for **building, o
 - **Docker**, **AWS**, **SageMaker**, **CI/CD**, **n8n**, **ElasticSearch**  
 - Model deployment pipelines and GPU optimization for low-latency inference
 
-### 🪙 **Blockchain Projects**
-- **EcoChain** — Decentralized carbon credit trading  
-- **Supplyzal** — Blockchain-based supply chain transparency
+### 🌟 Open Source
+- TradingViewPlus — Maintainer and contributor for a browser extension used by hundreds of traders
+- Multiple major feature releases, platform compatibility improvements, and community-driven enhancements
 
 ---
 
@@ -46,9 +55,10 @@ My journey blends a strong technical foundation with a passion for **building, o
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
+| 🩺 **AI Doctor Modules (Liferythym)** | MedLLM-powered clinical automation suite including triage, clinical notes, AI receptionist, and follow-up workflows | LangChain, Transformers, FastAPI |
 | 🧠 [**Organizational Chatbot**](https://github.com/xoTEMPESTox/TechEnerzal_oneAPI_hack_kpr) | Custom RAG + tool-calling chatbot for IT/HR workflows (2FA + dashboards) | Flask, LangChain, ChromaDB, OAuth2 |
+| 📈 [**TradingViewPlus**](https://github.com/Tiqur/TradingviewPlus) | Open-source browser extension with cross-platform support, major feature enhancements, and hundreds of active users | TypeScript, Browser APIs, Web Extensions |
 | 🌍 [**Eco Chain**](https://eco-chain-ashen.vercel.app) | Carbon credit trading system on Ethereum | MERN, Solidity, Web3.js |
-| 🩺 **AI Doctor Modules (Liferythm)** | MedLLM-powered clinical automation suite | LangChain, Transformers, Flask, FastAPI |
 
 ---
 
@@ -58,14 +68,6 @@ My journey blends a strong technical foundation with a passion for **building, o
 <a href="https://github.com/xoTEMPESTox/EcoChain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xoTEMPESTox&repo=EcoChain&bg_color=00000000&theme=algolia" />
 </a> -->
-
-## 📈 Professional Stats
-
-<a href="https://github.com/xoTEMPESTox">
-  <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api?username=xoTEMPESTox&show_icons=true&bg_color=00000000&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xoTEMPESTox&layout=compact&langs_count=8&bg_color=00000000&theme=algolia"/>
-</a>
-
 ---
 
 ## 🌐 Socials + Connect
@@ -99,10 +101,11 @@ My journey blends a strong technical foundation with a passion for **building, o
 </p>
 
 ---
+## 📈 Professional Stats
 
-### 🌟 Motto
+<a href="https://github.com/xoTEMPESTox">
+  <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api?username=xoTEMPESTox&show_icons=true&bg_color=00000000&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xoTEMPESTox&layout=compact&langs_count=8&bg_color=00000000&theme=algolia"/>
+</a>
 
-> *"Small, consistent steps compound into large, intelligent systems."*  
-> — Priyanshu Sah
 
----
