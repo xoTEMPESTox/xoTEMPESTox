@@ -12,13 +12,6 @@
 
 ---
 
-💼 <b>AI Engineer</b> building healthcare AI systems, agentic workflows, and production LLM applications <br>
-⚙️ Experience across model serving, RAG, evaluation, deployment, and AI infrastructure <br>
-🚀 <b>Open to Full-Time, Contract, and Freelance Opportunities</b> <br>
-</p>
-
----
-
 ## 🚀 About Me
 
 I’m **Priyanshu Sah**, an AI Engineer focused on turning AI research and models into products people can actually use.
