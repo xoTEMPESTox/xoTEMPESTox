@@ -1,8 +1,8 @@
 <!-- <h1 align="center"><b>Priyanshu Sah</b> | <i>TEMPEST</i></h1> -->
 
-<!-- <div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:1a0533,100:0d0d14&height=220&section=header&text=PRIYANSHU%20SAH&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
-</div> -->
+</div> 
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=100000&color=A78BFA&center=true&vCenter=true&width=750&height=32&lines=AI+Engineer+%7C+Full-Stack+Engineer+%7C+Open+Source+Maintainer" alt="typing svg"/>
