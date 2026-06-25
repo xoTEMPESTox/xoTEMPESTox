@@ -1,8 +1,8 @@
 <!-- <h1 align="center"><b>Priyanshu Sah</b> | <i>TEMPEST</i></h1> -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:1a0533,100:0d0d14&height=220&section=header&text=PRIYANSHU%20SAH&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=100000&color=A78BFA&center=true&vCenter=true&width=750&height=32&lines=AI+Engineer+%7C+Full-Stack+Engineer+%7C+Open+Source+Maintainer" alt="typing svg"/>
@@ -49,9 +49,11 @@ My interests include LLM applications, agentic systems, model serving, inference
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | 🩺 **AI Doctor Modules (Liferythym)** | MedLLM-powered clinical automation suite including triage, clinical notes, AI receptionist, and follow-up workflows | LangChain, Transformers, FastAPI |
-| 🧠 [**Organizational Chatbot**](https://github.com/xoTEMPESTox/TechEnerzal_oneAPI_hack_kpr) | Custom RAG + tool-calling chatbot for IT/HR workflows (2FA + dashboards) | Flask, LangChain, ChromaDB, OAuth2 |
-| 📈 [**TradingViewPlus**](https://github.com/Tiqur/TradingviewPlus) | Open-source browser extension with cross-platform support, major feature enhancements, and hundreds of active users | TypeScript, Browser APIs, Web Extensions |
-| 🌍 [**Eco Chain**](https://eco-chain-ashen.vercel.app) | Carbon credit trading system on Ethereum | MERN, Solidity, Web3.js |
+| 🎮 [**PokeDreamer**](https://github.com/xoTEMPESTox/PokeDreamer) | Experimental Model-Based RL agent for Pokémon Red featuring discrete RSSM, VAE-based dynamics, and ablation studies | PyTorch, Reinforcement Learning |
+| 🤖 [**NavDP (Research Sandbox)**](https://github.com/xoTEMPESTox/NavDP) | Extended Navigation Diffusion Policy framework with custom omni-directional hardware integration and programmatic USD collision fixes | Python, Sim-to-Real, Robotics |
+| 🧠 [**Organizational Chatbot**](https://github.com/xoTEMPESTox/Enerzal) | Enterprise AI assistant automating IT/HR support via customizable Graph-RAG pipelines, real-time tool calling, and 2FA integration | Flask, LangChain, ChromaDB |
+| 📈 [**TradingViewPlus**](https://github.com/xoTEMPESTox/TradingviewPlus) | Open-source TypeScript extension managing advanced UI features and cross-platform compatibility for 300+ active traders | TypeScript, Browser APIs |
+| 🌍 [**Eco Chain**](https://github.com/xoTEMPESTox/EcoChain) | Full-stack Web3 marketplace for secure, decentralized tracking and trading of tokenized carbon credits | MERN, Solidity, Web3.js |
 
 ---
 
