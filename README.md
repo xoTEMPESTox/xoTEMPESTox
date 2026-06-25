@@ -16,7 +16,7 @@
 
 I’m **Priyanshu Sah**, an AI Engineer focused on turning AI research and models into products people can actually use.
 
-Currently at **Liferythm Healthcare**, I work on AI-powered healthcare systems including clinical documentation, patient triage, AI receptionists, and follow-up automation. My work spans the full lifecycle from data preparation and evaluation to backend services, model integration, deployment, and production monitoring.
+Currently at **Liferythem Healthcare**, I work on AI-powered healthcare systems including clinical documentation, patient triage, AI receptionists, and follow-up automation. My work spans the full lifecycle from data preparation and evaluation to backend services, model integration, deployment, and production monitoring.
 
 My interests include LLM applications, agentic systems, model serving, inference optimization, and building reliable software around AI models.
 
@@ -48,7 +48,7 @@ My interests include LLM applications, agentic systems, model serving, inference
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| 🩺 **AI Doctor Modules (Liferythym)** | MedLLM-powered clinical automation suite including triage, clinical notes, AI receptionist, and follow-up workflows | LangChain, Transformers, FastAPI |
+| 🩺 **AI Doctor Modules (Liferythem)** | MedLLM-powered clinical automation suite including triage, clinical notes, AI receptionist, and follow-up workflows | LangChain, Transformers, FastAPI |
 | 🎮 [**PokeDreamer**](https://github.com/xoTEMPESTox/PokeDreamer) | Experimental Model-Based RL agent for Pokémon Red featuring discrete RSSM, VAE-based dynamics, and ablation studies | PyTorch, Reinforcement Learning |
 | 🤖 [**NavDP (Research Sandbox)**](https://github.com/xoTEMPESTox/NavDP) | Extended Navigation Diffusion Policy framework with custom omni-directional hardware integration and programmatic USD collision fixes | Python, Sim-to-Real, Robotics |
 | 🧠 [**Organizational Chatbot**](https://github.com/xoTEMPESTox/Enerzal) | Enterprise AI assistant automating IT/HR support via customizable Graph-RAG pipelines, real-time tool calling, and 2FA integration | Flask, LangChain, ChromaDB |
