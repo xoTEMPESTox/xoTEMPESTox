@@ -16,7 +16,7 @@
 
 I’m Priyanshu Sah, an AI Engineer focused on turning AI research and models into products people can actually use.
 
-Currently at Liferythm Healthcare, I work on an AI-powered healthcare suite spanning clinical documentation, patient triage, AI receptionists, follow-up automation, React Native applications, FastAPI microservices, and Bluetooth-enabled medical device integrations. My work spans the full product lifecycle—from data preparation and evaluation to backend development, model integration, deployment, and production AI systems for community healthcare.
+Currently at Liferythm Healthcare, I work on an AI powered healthcare suite spanning clinical documentation, patient triage, AI receptionists, follow-up automation, React Native applications, FastAPI microservices, and Bluetooth enabled medical device integrations. My work spans the full product lifecycle from data preparation and evaluation to backend development, model integration, deployment, and production AI systems for community healthcare.
 
 My interests include LLM applications, agentic systems, model serving, inference optimization, and building reliable software around AI models. I enjoy building AI systems end-to-end from research and experimentation to production-ready applications used in real-world workflows
 
