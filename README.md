@@ -14,15 +14,33 @@
 
 ## 🚀 About Me
 
-I’m **Priyanshu Sah**, an AI Engineer focused on turning AI research and models into products people can actually use.
+I’m Priyanshu Sah, an AI Engineer focused on turning AI research and models into products people can actually use.
 
-Currently at **Liferythem Healthcare**, I work on AI-powered healthcare systems including clinical documentation, patient triage, AI receptionists, and follow-up automation. My work spans the full lifecycle from data preparation and evaluation to backend services, model integration, deployment, and production monitoring.
+Currently at Liferythm Healthcare, I work on an AI-powered healthcare suite spanning clinical documentation, patient triage, AI receptionists, follow-up automation, React Native applications, FastAPI microservices, and Bluetooth-enabled medical device integrations. My work spans the full product lifecycle—from data preparation and evaluation to backend development, model integration, deployment, and production AI systems for community healthcare.
 
-My interests include LLM applications, agentic systems, model serving, inference optimization, and building reliable software around AI models.
+My interests include LLM applications, agentic systems, model serving, inference optimization, and building reliable software around AI models. I enjoy building AI systems end-to-end from research and experimentation to production-ready applications used in real-world workflows
 
 ---
 
 ## 🧠 Core Expertise
+### 🧩 AI Engineering
+- Agentic Systems | LangGraph | RAG | MCP
+- Medical LLMs | Transformers | LangChain | Hugging Face
+- Fine-Tuning | Evaluation Pipelines | Unsloth
+- Multimodal AI + VLMs | Model Serving | Inference Optimization
+
+### 🖥️ Full-Stack & Backend
+- React Native | React | FastAPI | Flask
+- REST APIs | WebSockets | Node.js
+- System Architecture | Nginx | Cloudflare
+
+### ⚙️ DevOps / AI Infrastructure
+- Docker | GitHub Actions | AWS | GCP
+- CI/CD | Elasticsearch | Production Deployments
+
+### 🌟 Open Source
+- Project Maintainer of TradingViewPlus, contributing features, architectural improvements, and adapter-based support for TradingView-powered platforms used by 300+ traders.
+- Contributed 20+ pull requests, resolved 30+ issues, shipped major releases, and continue maintaining the project alongside the community.
 
 ### 🧩 AI Engineering
 - RAG | Agentic Workflows | LangGraph | MCP
@@ -30,29 +48,17 @@ My interests include LLM applications, agentic systems, model serving, inference
 - Multimodal Systems | VLMs | Domain-Specific LLM Applications
 - LangChain | LlamaIndex | Transformers | Hugging Face
 
-### 🖥️ **Full-Stack & API Development**
-- **React + MERN Stack**, REST / WebSocket APIs  
-- **Flask**, **FastAPI**, **Node.js**, **Tailwind**, **Nginx**, **Cloudflare**
-
-### ⚙️ **DevOps / MLOps**
-- **Docker**, **AWS**, **SageMaker**, **CI/CD**, **n8n**, **ElasticSearch**  
-- Model deployment pipelines and GPU optimization for low-latency inference
-
-### 🌟 Open Source
-- TradingViewPlus Maintainer and contributor for a browser extension used by hundreds of traders
-- Multiple major feature releases, platform compatibility improvements, and community-driven enhancements
-
 ---
 
 ## 🏗️ Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| 🩺 **AI Doctor Modules (Liferythem)** | MedLLM-powered clinical automation suite including triage, clinical notes, AI receptionist, and follow-up workflows | LangChain, Transformers, FastAPI |
-| 🎮 [**PokeDreamer**](https://github.com/xoTEMPESTox/PokeDreamer) | Experimental Model-Based RL agent for Pokémon Red featuring discrete RSSM, VAE-based dynamics, and ablation studies | PyTorch, Reinforcement Learning |
-| 🤖 [**NavDP (Research Sandbox)**](https://github.com/xoTEMPESTox/NavDP) | Extended Navigation Diffusion Policy framework with custom omni-directional hardware integration and programmatic USD collision fixes | Python, Sim-to-Real, Robotics |
-| 🧠 [**Organizational Chatbot**](https://github.com/xoTEMPESTox/Enerzal) | Enterprise AI assistant automating IT/HR support via customizable Graph-RAG pipelines, real-time tool calling, and 2FA integration | Flask, LangChain, ChromaDB |
-| 📈 [**TradingViewPlus**](https://github.com/xoTEMPESTox/TradingviewPlus) | Open-source TypeScript extension managing advanced UI features and cross-platform compatibility for 300+ active traders | TypeScript, Browser APIs |
+| 🩺 **Healthcare AI Platform (Liferythm)** | End-to-end healthcare AI platform integrating React Native, FastAPI microservices, LangGraph workflows, Medical LLMs, and Bluetooth-enabled medical device integrations for community healthcare. | React Native, FastAPI, LangGraph, Medical LLMs |
+| 🎮 [**PokeDreamer**](https://github.com/xoTEMPESTox/PokeDreamer) | Dreamer-style model-based RL research implementing discrete RSSMs, VAE+GRU world models, and scheduled-sampling ablation studies for latent dynamics learning. | PyTorch, Model-Based RL |
+| 📈 [**TradingViewPlus**](https://github.com/xoTEMPESTox/TradingviewPlus) | Open-source browser extension where I contribute major features, adapter-based support for TradingView-powered platforms, architectural improvements, and ongoing maintenance as a project maintainer. | TypeScript, Browser APIs |
+| 🤖 [**NavDP (Research Sandbox)**](https://github.com/xoTEMPESTox/NavDP) | Research project extending Navigation Diffusion Policy with custom omni-directional robot support, simulator improvements, and sim-to-real experimentation. | Python, PyTorch, Robotics |
+| 🧠 [**Organizational Chatbot**](https://github.com/xoTEMPESTox/Enerzal) | Enterprise Graph-RAG assistant automating IT and HR workflows through document understanding, tool calling, and secure authentication. | Flask, LangChain, Graph-RAG |
 | 🌍 [**Eco Chain**](https://github.com/xoTEMPESTox/EcoChain) | Full-stack Web3 marketplace for secure, decentralized tracking and trading of tokenized carbon credits | MERN, Solidity, Web3.js |
 
 ---
