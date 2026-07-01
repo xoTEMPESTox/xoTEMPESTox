@@ -96,7 +96,7 @@ My interests include LLM applications, agentic systems, model serving, inference
   </a>
 
   <!-- Resume (Foreign) - https://bit.ly/Priyanshu_Sah-Resume-Foreign -->
-  <a href="https://priyanshusah.com/resume-global" target="_blank">
+  <a href="https://priyanshusah.com/resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
