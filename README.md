@@ -42,24 +42,19 @@ My interests include LLM applications, agentic systems, model serving, inference
 - Project Maintainer of TradingViewPlus, contributing features, architectural improvements, and adapter-based support for TradingView-powered platforms used by 300+ traders.
 - Contributed 20+ pull requests, resolved 30+ issues, shipped major releases, and continue maintaining the project alongside the community.
 
-### 🧩 AI Engineering
-- RAG | Agentic Workflows | LangGraph | MCP
-- Fine-Tuning | Evaluation Pipelines | Inference Optimization
-- Multimodal Systems | VLMs | Domain-Specific LLM Applications
-- LangChain | LlamaIndex | Transformers | Hugging Face
-
 ---
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🩺 **Healthcare AI Platform (Liferythm)** | End-to-end healthcare AI platform integrating React Native, FastAPI microservices, LangGraph workflows, Medical LLMs, and Bluetooth-enabled medical device integrations for community healthcare. | React Native, FastAPI, LangGraph, Medical LLMs |
-| 🎮 [**PokeDreamer**](https://github.com/xoTEMPESTox/PokeDreamer) | Dreamer-style model-based RL research implementing discrete RSSMs, VAE+GRU world models, and scheduled-sampling ablation studies for latent dynamics learning. | PyTorch, Model-Based RL |
-| 📈 [**TradingViewPlus**](https://github.com/xoTEMPESTox/TradingviewPlus) | Open-source browser extension where I contribute major features, adapter-based support for TradingView-powered platforms, architectural improvements, and ongoing maintenance as a project maintainer. | TypeScript, Browser APIs |
-| 🤖 [**NavDP (Research Sandbox)**](https://github.com/xoTEMPESTox/NavDP) | Research project extending Navigation Diffusion Policy with custom omni-directional robot support, simulator improvements, and sim-to-real experimentation. | Python, PyTorch, Robotics |
-| 🧠 [**Organizational Chatbot**](https://github.com/xoTEMPESTox/Enerzal) | Enterprise Graph-RAG assistant automating IT and HR workflows through document understanding, tool calling, and secure authentication. | Flask, LangChain, Graph-RAG |
-| 🌍 [**Eco Chain**](https://github.com/xoTEMPESTox/EcoChain) | Full-stack Web3 marketplace for secure, decentralized tracking and trading of tokenized carbon credits | MERN, Solidity, Web3.js |
+| Project | Description | Tech Stack | 📄 Case Study |
+|----------|-------------|------------|---------------|
+| 🩺 **Healthcare AI Platform (Liferythm)** | End-to-end healthcare AI platform integrating React Native, FastAPI microservices, LangGraph workflows, Medical LLMs, and Bluetooth-enabled medical device integrations for community healthcare. | React Native · FastAPI · LangGraph · Medical LLMs | [Case Study →](https://priyanshusah.com/projects/liferythm-ai-doctor) |
+| 🎙️ **Enterprise Conversational AI Platform (CREO)** | Enterprise Speech-to-Speech AI platform with configurable Voice AI assistants, retrieval-augmented generation, and reusable deployment architecture. | FastAPI · LangGraph · LangChain | [Case Study →](https://priyanshusah.com/projects/creo-sts-chatbot) |
+| 🎮 [**PokéWorld**](https://github.com/xoTEMPESTox/PokeDreamer) | Research sandbox exploring Dreamer-style world models, representation learning, latent dynamics, and model-based reinforcement learning. | PyTorch · Model-Based RL | [Case Study →](https://priyanshusah.com/projects/pokedreamer-rl) |
+| 📈 [**TradingViewPlus**](https://github.com/xoTEMPESTox/TradingviewPlus) | Open-source browser extension maintained for 300+ traders, featuring architectural improvements, adapter-based integrations, and cross-browser support. | TypeScript · WebExtensions API | [Case Study →](https://priyanshusah.com/projects/tv-plus) |
+| 🤖 [**NavDP (Research Sandbox)**](https://github.com/xoTEMPESTox/NavDP) | Research project extending Navigation Diffusion Policy with custom omni-directional robot support, simulator improvements, and sim-to-real experimentation. | Python · PyTorch · Robotics | [Case Study →](https://priyanshusah.com/projects/navdp-robotics) |
+| 🧠 [**Enerzal**](https://github.com/xoTEMPESTox/Enerzal) | Enterprise Graph-RAG assistant automating IT and HR workflows through document understanding, tool calling, and secure authentication. | Flask · LangChain · Neo4j | [Case Study →](https://priyanshusah.com/projects/enerzal) |
+| 🌍 [**Eco Chain**](https://github.com/xoTEMPESTox/EcoChain) | Full-stack Web3 application for decentralized product provenance, ownership tracking, and blockchain-based supply chain transparency. | Solidity · Web3.js · React | [Case Study →](https://priyanshusah.com/projects/eco-chain) |
 
 ---
 
