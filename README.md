@@ -22,7 +22,7 @@ Outside work, I maintain [**TradingViewPlus**](https://github.com/xoTEMPESTox/Tr
 
 
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 | Project | What I Built | Tech Stack | 📄 Case Study |
 |---------|--------------|------------|---------------|
@@ -96,7 +96,7 @@ Outside work, I maintain [**TradingViewPlus**](https://github.com/xoTEMPESTox/Tr
 
 
 
-## 📈 Professional Stats
+## Stats
 
 <a href="https://github.com/xoTEMPESTox">
   <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api?username=xoTEMPESTox&show_icons=true&bg_color=00000000&theme=algolia&include_all_commits=true&count_private=true"/>
