@@ -52,7 +52,7 @@ Outside work, I maintain [**TradingViewPlus**](https://github.com/xoTEMPESTox/Tr
 - `Elasticsearch` · `Production Deployments`
 
 ### Open Source
-- **TradingViewPlus** — Maintainer · 20+ PRs · 30+ issues · 300+ active users · Modular adapter architecture
+- **TradingViewPlus** — Maintainer · 500+ active users 
 
 
 
