@@ -26,7 +26,7 @@ Outside work, I maintain [**TradingViewPlus**](https://github.com/xoTEMPESTox/Tr
 
 | Project | What I Built | Tech Stack | 📄 Case Study |
 |---------|--------------|------------|---------------|
-| 🩺 **Healthcare AI Platform (Liferythm)** | Healthcare platform with 7 agentic workflows covering patient intake, clinical documentation, triage, follow-ups, AI reception, and Bluetooth medical-device data. | React Native · FastAPI · LangGraph · Medical LLMs | [Case Study →](https://priyanshusah.com/projects/liferythm-ai-doctor) |
+| 🩺 **Healthcare AI Platform (Liferythm)** | Healthcare platform with 7 agentic workflows covering patient intake, clinical documentation, triage, follow-ups, AI reception, and Bluetooth medical-device data. | React Native · FastAPI · LangGraph · Medical LLMs | [Case Study →](https://priyanshusah.com/projects/liferythem-ai-doctor) |
 | 🎙️ **Enterprise Conversational AI (CREO)** | Real-time speech-to-speech platform with configurable Voice AI assistants, RAG, agentic workflows, and reusable deployment architecture. | FastAPI · LangGraph · LangChain | [Case Study →](https://priyanshusah.com/projects/creo-sts-chatbot) |
 | 🎮 [**PokéWorld**](https://github.com/xoTEMPESTox/PokeDreamer) | Dreamer-style world model for Pokémon Red with latent dynamics, representation learning, and model-based RL experiments. | PyTorch · Model-Based RL | [Case Study →](https://priyanshusah.com/projects/pokedreamer-rl) |
 | 📈 [**TradingViewPlus**](https://github.com/xoTEMPESTox/TradingviewPlus) | Open-source browser extension used by 300+ traders with modular adapters, cross-browser support, and a refactored build pipeline. | TypeScript · WebExtensions API | [Case Study →](https://priyanshusah.com/projects/tv-plus) |
