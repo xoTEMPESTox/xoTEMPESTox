@@ -95,10 +95,11 @@ Outside work, I maintain [**TradingViewPlus**](https://github.com/xoTEMPESTox/Tr
 </p>
 
 
-
+<!--
 ## Stats
 
 <a href="https://github.com/xoTEMPESTox">
   <img height="180em" align="center" src="./profile/stats.svg"/>
   <img height="180em" align="center" src="./profile/top-langs.svg"/>
 </a>
+-->
