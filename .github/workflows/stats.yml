@@ -2,7 +2,7 @@ name: Update README stats cards
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # once a week, Sunday midnight UTC
+    - cron: "0 0 1 * *" # once a month, 1st at midnight UTC
   workflow_dispatch: # lets you run it manually from the Actions tab
 
 jobs:
