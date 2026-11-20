@@ -99,6 +99,6 @@ Outside work, I maintain [**TradingViewPlus**](https://github.com/xoTEMPESTox/Tr
 ## Stats
 
 <a href="https://github.com/xoTEMPESTox">
-  <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api?username=xoTEMPESTox&show_icons=true&bg_color=00000000&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xoTEMPESTox&layout=compact&langs_count=8&bg_color=00000000&theme=algolia"/>
+  <img height="180em" align="center" src="./profile/stats.svg"/>
+  <img height="180em" align="center" src="./profile/top-langs.svg"/>
 </a>
